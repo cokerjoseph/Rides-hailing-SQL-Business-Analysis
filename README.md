@@ -39,7 +39,6 @@ Built a `rides_cleaned` table (35,305 records) by:
 ## Tools
 
 - PostgreSQL
-- Window functions (`ROW_NUMBER`), CTEs, `STRING_AGG`, date/time extraction
 
 ## Files
 
