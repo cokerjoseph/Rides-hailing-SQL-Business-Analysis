@@ -46,6 +46,4 @@ Built a `rides_cleaned` table (35,305 records) by:
 - [`8_Business_questions.sql`](./8_Business_questions.sql) — full schema, cleaning script, and all 8 queries
 - Full write-up with query screenshots and results in the analysis report
 
-## Author
 
-**Coker Joseph Afolabi**
